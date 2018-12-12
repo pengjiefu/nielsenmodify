@@ -83,6 +83,10 @@
   color:#000000;
   text-align:left;
 }
+._流程形状 {
+}
+.table_cell {
+}
 .shape {
 }
 .paragraph {
@@ -90,6 +94,13 @@
 }
 .image {
   color:#000000;
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .label {
   font-size:14px;
