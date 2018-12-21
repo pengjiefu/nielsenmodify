@@ -11,6 +11,10 @@
 }
 .box_2 {
 }
+.line {
+}
+.flow_shape {
+}
 .box_3 {
 }
 .ellipse {
@@ -106,6 +110,20 @@
   font-size:14px;
   text-align:left;
 }
+.paragraph1 {
+  text-align:left;
+}
 .checkbox {
   text-align:left;
+}
+._形状 {
+}
+._连接线 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
