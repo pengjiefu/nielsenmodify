@@ -72,20 +72,64 @@
 }
 #u2465 {
   position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2466 {
+  position:absolute;
   left:331px;
   top:543px;
   width:100px;
   height:16px;
 }
-#u2466 {
+#u2467 {
   position:absolute;
   left:16px;
   top:0px;
   width:82px;
-  visibility:hidden;
   word-wrap:break-word;
 }
-#u2465_input {
+#u2466_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u2468 {
+  position:absolute;
+  left:441px;
+  top:543px;
+  width:146px;
+  height:16px;
+}
+#u2469 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:128px;
+  word-wrap:break-word;
+}
+#u2468_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u2470 {
+  position:absolute;
+  left:597px;
+  top:543px;
+  width:146px;
+  height:16px;
+}
+#u2471 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:128px;
+  word-wrap:break-word;
+}
+#u2470_input {
   position:absolute;
   left:-3px;
   top:-2px;
